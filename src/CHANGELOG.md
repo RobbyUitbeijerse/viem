@@ -1,5 +1,13 @@
 # viem
 
+## 2.20.1
+
+### Patch Changes
+
+- [#2646](https://github.com/wevm/viem/pull/2646) [`50bde96b`](https://github.com/wevm/viem/commit/50bde96b39e4e2980e995f5288ea9b6a2f62a530) Thanks [@thobbyAk](https://github.com/thobbyAk)! - Added Botanix Testnet.
+
+- [#2644](https://github.com/wevm/viem/pull/2644) [`2eb817a2`](https://github.com/wevm/viem/commit/2eb817a25bfe0bfdb36df02c7907f38b889f474a) Thanks [@RobbyUitbeijerse](https://github.com/RobbyUitbeijerse)! - Added Sophon Testnet.
+
 ## 2.20.0
 
 ### Minor Changes
